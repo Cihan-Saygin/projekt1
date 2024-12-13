@@ -1,0 +1,12 @@
+id,name,desc,price,quantity
+1, iPad 1st Generation,The original iPad.,4000.99,20,
+2, iPad 2nd Generation,The second generation iPad.,5000.99,30,
+3, iPad 3rd Generation,The third generation iPad.,6000.99,40,
+4, iPad 4th Generation,The fourth generation iPad.,7000.99,50,
+5, iPad 5th Generation,The fifth generation iPad.,8000.99,60,
+6, iPad 6th Generation,The sixth generation iPad.,9000.99,70,
+7, iPad 7th Generation,The seventh generation iPad.,10000.99,80,
+8, iPad 8th Generation,The eighth generation iPad.,11000.99,90,
+9, iPad 9th Generation,The ninth generation iPad.,12000.99,100,
+10, iPad 10th Generation,The tenth generation iPad.,13000.99,110
+
